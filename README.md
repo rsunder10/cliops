@@ -1,4 +1,4 @@
-# 🧰 backend-toolkit
+# 🧰 cli-ops
 
 A **minimal Docker image** built specifically for backend developers and DevOps engineers. It includes only the most essential CLI tools for working with databases, APIs, and networks — with zero bloat.
 
