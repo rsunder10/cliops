@@ -24,3 +24,10 @@ A **minimal Docker image** built specifically for backend developers and DevOps 
 git clone https://github.com/rsunder10/cliops.git
 cd cliops
 docker build -t cliops .
+```
+
+### 2. Pull from Docker Hub
+
+```bash
+docker pull yourusername/backend-toolkit:latest
+```
