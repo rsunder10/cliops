@@ -29,5 +29,11 @@ docker build -t cliops .
 ### 2. Pull from Docker Hub
 
 ```bash
-docker pull yourusername/backend-toolkit:latest
+docker pull rsunder/cliops:latest
+```
+
+### 3. Run interactively
+
+```bash
+docker run -it --rm rsunder/cliops
 ```
